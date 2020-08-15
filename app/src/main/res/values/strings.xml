@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score App</string>
+    <string name="goals">Goals</string>
+    <string name="fouls">Fouls</string>
+    <string name="corners">Corners</string>
+    <string name="initial_score">0</string>
+    <string name="team1">Team A</string>
+    <string name="team2">Team B</string>
+
+</resources>
